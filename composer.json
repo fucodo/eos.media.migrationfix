@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "type": "neos-package",
+    "name": "fucodo/neos-media-migrationfix",
+    "require": {
+        "neos/flow": "*",
+        "neos/media": "^7 || ^8 || ^9"
+    },
+    "autoload": {
+        "psr-4": {
+            "fucodo\\neos\\media\\migrationfix\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "fucodo.neos.media.migrationfix"
+        }
+    }
+}
