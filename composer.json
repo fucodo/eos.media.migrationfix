@@ -2,6 +2,7 @@
     "description": "",
     "type": "neos-package",
     "name": "fucodo/neos-media-migrationfix",
+    "license": "MIT",
     "require": {
         "neos/flow": "*",
         "neos/media": "^7 || ^8 || ^9"
